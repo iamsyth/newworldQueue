@@ -1,5 +1,7 @@
 # newworldQueue
-New world queue starter. Please make sure python is installed, aswell as the library pyautogui.
+New world queue starter. 
+
+Please make sure python is installed, aswell as the library pyautogui.
 
 To install python, go here:https://www.python.org/downloads/
 
